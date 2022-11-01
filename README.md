@@ -8,4 +8,4 @@ This microservice receives a request by monitoring a text file called result_rec
 Once a request is received, this microservice saves the received value and generatesa random value within the range of 1 to said value. It then writes this random value to a .txt file named random_activity.txt. This file can then be read by the main program and used to choose a random activity from the filtered search.
 
 ## UML Sequence Diagram
-
+![UML Image](BArsenault_UML.jpg)
